@@ -74,4 +74,5 @@ dependencies {
     testImplementation(libs.test.core.testing)
     testImplementation(libs.flow.test)
     testImplementation(libs.kotlin.test)
+    implementation(libs.androidx.core.splashscreen)
 }
